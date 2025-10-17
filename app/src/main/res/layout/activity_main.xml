@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/String"
+        android:backgroundTint="@color/Verde"
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="87dp" />
 
@@ -20,6 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/cancelar"
+        android:backgroundTint="@color/Rojo"
         tools:layout_editor_absoluteX="262dp"
         tools:layout_editor_absoluteY="87dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
