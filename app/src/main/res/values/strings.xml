@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Proyecto_3</string>
+    <string name="String">continuar</string>
+    <string name="cancelar">Abandonar</string>
 </resources>
